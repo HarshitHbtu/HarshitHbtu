@@ -1,16 +1,147 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harshit Gangwar</h1>
 
-<!--
-**HarshitHbtu/HarshitHbtu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+B.Tech IT @ HBTU Kanpur | DSA Enthusiast | Machine Learning Learner
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Software+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Always+Learning+New+Things!" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👨‍💻 About Me
+
+- 🎓 B.Tech in Information Technology @ HBTU Kanpur
+- 🏆 AIR 1 in CUET UG
+- 💻 Solved **1100+ DSA Problems**
+- 🌱 Currently Learning **Machine Learning**
+- 🚀 Interested in Software Development, AI & Competitive Programming
+- ⚡ Fun Fact: I love solving DSA problems more than sleeping 😄
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/harshit-gangwar-83a42637b/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/HarshitHbtu">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/HARSHITGANGWAR55555/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/harshitga51lm">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,git,github,html,css,mysql,vscode"/>
+
+</p>
+
+### Libraries
+
+<p>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Resume Score Generator
+
+- NLP
+- TF-IDF
+- Cosine Similarity
+- Streamlit
+- Resume Parsing
+
+---
+
+## 💳 UPI Fraud Detection
+
+- Random Forest
+- Machine Learning
+- Streamlit
+- Hybrid Fraud Detection
+
+---
+
+## 📚 DSA Repository
+
+- 380+ Problems
+- C++
+- Interview Preparation
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshitHbtu&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitHbtu&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitHbtu&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitHbtu&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=HarshitHbtu&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
