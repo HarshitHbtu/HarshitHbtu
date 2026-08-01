@@ -92,11 +92,10 @@ B.Tech IT @ HBTU Kanpur | DSA Enthusiast | Machine Learning Learner
 
 ## 📚 DSA Repository
 
-- 1100+ Problems
-- C++
+- Solved 1100+ DSA Problems
+- Covers Arrays, Trees, Graphs, DP, Trie & Segment Tree
+- C++ Implementation
 - Interview Preparation
-
----
 
 # 📊 GitHub Stats
 
