@@ -92,7 +92,7 @@ B.Tech IT @ HBTU Kanpur | DSA Enthusiast | Machine Learning Learner
 
 ## 📚 DSA Repository
 
-- 380+ Problems
+- 1100+ Problems
 - C++
 - Interview Preparation
 
@@ -101,14 +101,9 @@ B.Tech IT @ HBTU Kanpur | DSA Enthusiast | Machine Learning Learner
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshitHbtu&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitHbtu&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshitHbtu&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitHbtu&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
 </p>
-
----
 
 # 🔥 GitHub Streak
 
