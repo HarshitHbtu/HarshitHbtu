@@ -13,7 +13,7 @@ B.Tech IT @ HBTU Kanpur | DSA Enthusiast | Machine Learning Learner
 # 👨‍💻 About Me
 
 - 🎓 B.Tech in Information Technology @ HBTU Kanpur
-- 🏆 AIR 1 in CUET UG
+- 🏆 AIR 1 in CUET UG 2024
 - 💻 Solved **1100+ DSA Problems**
 - 🌱 Currently Learning **Machine Learning**
 - 🚀 Interested in Software Development, AI & Competitive Programming
