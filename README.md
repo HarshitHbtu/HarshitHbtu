@@ -114,10 +114,8 @@ B.Tech IT @ HBTU Kanpur | DSA Enthusiast | Machine Learning Learner
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitHbtu&theme=tokyo-night" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/HarshitHbtu" alt="Harshit's Github Contribution Graph" width="100%" />
 </p>
----
-
 # 🏆 Profile Views
 
 <p align="center">
