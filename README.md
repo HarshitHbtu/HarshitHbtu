@@ -100,8 +100,8 @@ B.Tech IT @ HBTU Kanpur | DSA Enthusiast | Machine Learning Learner
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshitHbtu&show_icons=true&theme=tokyonight" height="180" alt="Harshit's GitHub Stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshitHbtu&layout=compact&theme=tokyonight" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HarshitHbtu&show_icons=true&theme=tokyonight" height="180" alt="Harshit's GitHub Stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HarshitHbtu&layout=compact&theme=tokyonight" height="180" alt="Top Languages"/>
 </p>
 
 # 🔥 GitHub Streak
