@@ -97,10 +97,12 @@ B.Tech IT @ HBTU Kanpur | DSA Enthusiast | Machine Learning Learner
 - C++ Implementation
 - Interview Preparation
 
-# 📊 GitHub Stats & Trophies
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshitHbtu&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Total_Contributions-21-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Top_Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language" />
+  <img src="https://img.shields.io/badge/Profile_Status-Active-brightgreen?style=for-the-badge" alt="Status" />
 </p>
 # 🔥 GitHub Streak
 
